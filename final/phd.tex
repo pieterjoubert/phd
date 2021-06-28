@@ -1,0 +1,46 @@
+\documentclass{report}
+\usepackage{fullpage}
+\usepackage{harvard}
+\usepackage{parskip}
+\usepackage{comment}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{todonotes}
+\usepackage{geometry}
+\usepackage{helvet}
+
+\geometry{a4paper, portrait, margin=2cm}
+\setcounter{secnumdepth}{4}
+
+\renewcommand{\familydefault}{\sfdefault}
+\newcommand{\myparagraph}[1]{\paragraph{#1}\mbox{}\\}
+\linespread{1}
+
+\begin{document}
+\title{Title}
+\author{Pieter Joubert}
+\date{\today}
+\maketitle 
+
+\tableofcontents
+\listoffigures
+
+\chapter{Introduction}
+\input{chapters/introduction.tex}
+
+\chapter{Methodology}
+\input{chapters/methodology.tex}
+
+\chapter{Structured Literature Review}
+\input{chapters/slr.tex}
+
+\chapter{Taxonomy}
+\input{chapters/taxonomy.tex}
+
+\chapter{Random Ideas}
+\input{chapters/ideas.tex}
+
+\bibliographystyle{myharvard}
+\bibliography{PHD_literature}
+
+\end{document}

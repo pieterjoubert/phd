@@ -1,0 +1,42 @@
+\begin{thebibliography}{5}
+\newcommand{\enquote}[1]{`#1'}
+\providecommand{\natexlab}[1]{#1}
+{\catcode`\|=0\catcode`\#=12\catcode`\@=11\catcode`\\=12
+|immediate|write|@auxout{\expandafter\ifx\csname
+  natexlab\endcsname\relax\gdef\natexlab#1{#1}\fi}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\harvarditem{Aaker \harvardand{} Joachimsthaler}{2012}{aaker2012brand}
+Aaker, D.A. \harvardand{} Joachimsthaler, E.
+\newblock \emph{Brand leadership}.
+\newblock Simon and Schuster \harvardyearleft 2012\harvardyearright{}.
+
+\harvarditem{Adams}{2014}{adams2014fundamentals}
+Adams, E.
+\newblock \emph{Fundamentals of game design}.
+\newblock Pearson Education \harvardyearleft 2014\harvardyearright{}.
+
+\harvarditem[Cook et~al.]{Cook, Erwin, Carmody \harvardand{}
+  Enslin}{2010}{cook2010healthy}
+Cook, G., Erwin, K., Carmody, P. \harvardand{} Enslin, C.
+\newblock \enquote{How healthy is your brand.}
+\newblock \emph{The Encyclopaedia of Brands and Branding} \harvardyearleft
+  2010\harvardyearright{}.
+
+\harvarditem[Keller et~al.]{Keller, Heckler \harvardand{}
+  Houston}{1998}{keller1998effects}
+Keller, K.L., Heckler, S.E. \harvardand{} Houston, M.J.
+\newblock \enquote{The effects of brand name suggestiveness on advertising
+  recall.}
+\newblock \emph{Journal of marketing}, \textbf{62}(1), pages 48--57
+  \harvardyearleft 1998\harvardyearright{}.
+
+\harvarditem{Schell}{2008}{schell2008art}
+Schell, J.
+\newblock \enquote{The art of game design: a book of lenses/by jesse schell.}
+  \harvardyearleft 2008\harvardyearright{}.
+
+\end{thebibliography}

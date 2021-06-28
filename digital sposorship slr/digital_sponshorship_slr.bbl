@@ -1,0 +1,61 @@
+\begin{thebibliography}{6}
+\newcommand{\enquote}[1]{`#1'}
+\providecommand{\natexlab}[1]{#1}
+{\catcode`\|=0\catcode`\#=12\catcode`\@=11\catcode`\\=12
+|immediate|write|@auxout{\expandafter\ifx\csname
+  natexlab\endcsname\relax\gdef\natexlab#1{#1}\fi}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\harvarditem[Elasri-Ejjaberi et~al.]{Elasri-Ejjaberi, Rodriguez-Rodriguez,
+  Sergio, Aparicio-Chueca \harvardand{} Pilar}{2020}{Elasri-Ejjaberi2020}
+Elasri-Ejjaberi, A., Rodriguez-Rodriguez, ., Sergio, Aparicio-Chueca, .
+  \harvardand{} Pilar.
+\newblock \enquote{{Effect of eSport sponsorship on brands: an empirical study
+  applied to youth}.}
+\newblock \emph{Journal of Physical Education and Sport {\textregistered}
+  (JPES)}, \textbf{20}(2), pages 852--861 \harvardyearleft
+  2020\harvardyearright{}.
+\newblock \doi{10.7752/jpes.2020.02122}.
+\newline\harvardurl{www.efsupit.ro}
+
+\harvarditem[Freitas et~al.]{Freitas, Contreras-Espinosa \harvardand{} Álvaro
+  Pereira~Correia}{2019}{Freitas2019}
+Freitas, B.D.A., Contreras-Espinosa, R.S. \harvardand{} Álvaro
+  Pereira~Correia, P.
+\newblock \enquote{Identifying the pros, cons and tactics of esports
+  sponsorships: An integrative literature review.}
+\newblock \emph{Comunicação pública}, \textbf{14}, pages 0--13
+  \harvardyearleft 2019\harvardyearright{}.
+\newblock ISSN 2182-2269.
+\newblock \doi{9.4000/cp.7243}.
+
+\harvarditem[Huettermann et~al.]{Huettermann, Trail, Pizzo \harvardand{}
+  Stallone}{2020}{huettermann2020esports}
+Huettermann, M., Trail, G.T., Pizzo, A.D. \harvardand{} Stallone, V.
+\newblock \enquote{Esports sponsorship: An empirical examination of esports
+  consumers’ perceptions of non-endemic sponsors.}
+\newblock \emph{Journal of Global Sport Management}, pages 1--26
+  \harvardyearleft 2020\harvardyearright{}.
+
+\harvarditem[Hwang et~al.]{Hwang, Ballouli, So \harvardand{}
+  Heere}{2017}{hwang2017effects}
+Hwang, Y., Ballouli, K., So, K. \harvardand{} Heere, B.
+\newblock \enquote{Effects of brand congruity and game difficulty on gamers’
+  response to advertising in sport video games.}
+\newblock \emph{Journal of Sport Management}, \textbf{31}(5), pages 480--496
+  \harvardyearleft 2017\harvardyearright{}.
+
+\harvarditem{Petticrew \harvardand{} Roberts}{2008}{petticrew2008systematic}
+Petticrew, M. \harvardand{} Roberts, H.
+\newblock \emph{Systematic reviews in the social sciences: A practical guide}.
+\newblock John Wiley \& Sons \harvardyearleft 2008\harvardyearright{}.
+
+\harvarditem{Plowright}{2011}{plowright2011using}
+Plowright, D.
+\newblock \emph{Using mixed methods: Frameworks for an integrated methodology}.
+\newblock Sage publications \harvardyearleft 2011\harvardyearright{}.
+
+\end{thebibliography}
