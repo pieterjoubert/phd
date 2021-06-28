@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.5)  19 MAY 2021 09:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.5)  28 JUN 2021 10:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/pjoubert/gd/phd_branding/digital sposorship slr/digital_sponshorship_slr.tex"
-(c:/Users/pjoubert/gd/phd_branding/digital sposorship slr/digital_sponshorship_slr.tex
+**"c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex"
+(c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-07-17> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -35,7 +35,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count176
 \l__pdf_internal_box=\box45
-) (c:/Users/pjoubert/gd/phd_branding/digital sposorship slr/digital_sponshorship_slr.aux)
+) (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux)
 \openout1 = `digital_sponshorship_slr.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -60,23 +60,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 28.
  [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/pjoubert/gd/phd_branding/digital sposorship slr/digital_sponshorship_slr.bbl
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 21.
-) [2] (c:/Users/pjoubert/gd/phd_branding/digital sposorship slr/digital_sponshorship_slr.aux) )
+) [2] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux) )
 (\end occurred when \ifx on line 8 was incomplete) 
 Here is how much of TeX's memory you used:
  889 strings out of 480906
- 12531 string characters out of 5912174
+ 12586 string characters out of 5912174
  247534 words of memory out of 5000000
  16528 multiletter control sequences out of 15000+600000
  545878 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,29p,657b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,29p,662b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbi0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on "c:/Users/pjoubert/gd/phd_branding/digital sposorship slr/digital_sponshorship_slr.pdf" (2 pages, 145193 bytes).
+Output written on "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" (2 pages, 145024 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
