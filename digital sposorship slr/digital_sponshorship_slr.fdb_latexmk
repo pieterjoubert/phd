@@ -1,14 +1,15 @@
 # Fdb version 3
-["bibtex digital_sponshorship_slr"] 1624869163 "digital_sponshorship_slr.aux" "digital_sponshorship_slr.bbl" "digital_sponshorship_slr" 1624869166
-  "../final/PHD_literature.bib" 1624869115 5959 c93d571c76155fcd888c4c6069781a2d ""
+["bibtex digital_sponshorship_slr"] 1624870546 "digital_sponshorship_slr.aux" "digital_sponshorship_slr.bbl" "digital_sponshorship_slr" 1624870548
   "./myharvard.bst" 1370337474 31282 d3655d553a6491c7b5d390e183a839ce ""
-  "digital_sponshorship_slr.aux" 1624869165 1760 16f8d7179a21b7168d6955a82aedf724 "pdflatex"
+  "PHD_literature.bib" 1624870325 5959 4d6b793e103587d7bec3c4497858571d ""
+  "digital_sponshorship_slr.aux" 1624870547 1763 2ceb339ccac64cc1fd5c105156aec6bf "pdflatex"
+  "esports_slr.bib" 1624870210 3130 cb56b13ecdd4672edf52615b39f09cab ""
   (generated)
   "digital_sponshorship_slr.blg"
   "digital_sponshorship_slr.bbl"
-["pdflatex"] 1624869164 "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" "digital_sponshorship_slr" 1624869166
-  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux" 1624869165 1760 16f8d7179a21b7168d6955a82aedf724 ""
-  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" 1624869160 3381 d54fbf3aa06e959b72eeb3ea183f5b0a ""
+["pdflatex"] 1624870546 "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" "digital_sponshorship_slr" 1624870548
+  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux" 1624870547 1763 2ceb339ccac64cc1fd5c105156aec6bf ""
+  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" 1624870540 3385 3ef41617a9528f96c5a5caf62785199b ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1596644152 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1596644152 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1596647934 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -53,12 +54,12 @@
   "c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1596662794 4913173 290a314ed5756852b92be5e4d6b23d50 ""
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1596662929 2440978 0a62963e6bc79ed7bb1f06a24d5cfbee ""
   "c:/texlive/2020/texmf.cnf" 1596662759 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "digital_sponshorship_slr.aux" 1624869165 1760 16f8d7179a21b7168d6955a82aedf724 "pdflatex"
-  "digital_sponshorship_slr.bbl" 1624869164 2847 3dc2121c2fb4a4916b9e26b4f04c4b3c "bibtex digital_sponshorship_slr"
-  "digital_sponshorship_slr.tex" 1624869160 3381 d54fbf3aa06e959b72eeb3ea183f5b0a ""
+  "digital_sponshorship_slr.aux" 1624870547 1763 2ceb339ccac64cc1fd5c105156aec6bf "pdflatex"
+  "digital_sponshorship_slr.bbl" 1624870546 2847 3dc2121c2fb4a4916b9e26b4f04c4b3c "bibtex digital_sponshorship_slr"
+  "digital_sponshorship_slr.tex" 1624870540 3385 3ef41617a9528f96c5a5caf62785199b ""
   (generated)
-  "digital_sponshorship_slr.log"
-  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.log"
   "digital_sponshorship_slr.aux"
-  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf"
+  "digital_sponshorship_slr.log"
   "digital_sponshorship_slr.pdf"
+  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.log"
+  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf"
