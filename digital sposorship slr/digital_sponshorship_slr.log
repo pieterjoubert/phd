@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.5)  28 JUN 2021 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.5)  12 JUL 2021 15:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -62,24 +62,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 21.
+(Font)              <9> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
-) [2] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux) )
+(Font)              <5> on input line 26.
+ [2]) [3] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux) )
 (\end occurred when \ifx on line 8 was incomplete) 
 Here is how much of TeX's memory you used:
- 889 strings out of 480906
- 12586 string characters out of 5912174
+ 893 strings out of 480906
+ 12670 string characters out of 5912174
  247534 words of memory out of 5000000
- 16528 multiletter control sequences out of 15000+600000
+ 16532 multiletter control sequences out of 15000+600000
  545878 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,6n,29p,662b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbi0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" (2 pages, 145024 bytes).
+Output written on "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" (3 pages, 153442 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

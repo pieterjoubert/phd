@@ -5,44 +5,44 @@ The style file: myharvard.bst
 Database file #1: esports_slr.bib
 Database file #2: PHD_literature.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 6 entries,
+You've used 7 entries,
             3090 wiz_defined-function locations,
-            670 strings with 6564 characters,
-and the built_in function-call counts, 4260 in all, are:
-= -- 336
-> -- 170
-< -- 8
-+ -- 63
-- -- 58
-* -- 322
-:= -- 619
-add.period$ -- 25
-call.type$ -- 6
-change.case$ -- 47
-chr.to.int$ -- 7
-cite$ -- 6
-duplicate$ -- 325
-empty$ -- 319
-format.name$ -- 83
-if$ -- 851
+            675 strings with 6656 characters,
+and the built_in function-call counts, 4777 in all, are:
+= -- 376
+> -- 189
+< -- 10
++ -- 70
+- -- 64
+* -- 357
+:= -- 699
+add.period$ -- 28
+call.type$ -- 7
+change.case$ -- 53
+chr.to.int$ -- 8
+cite$ -- 7
+duplicate$ -- 365
+empty$ -- 363
+format.name$ -- 97
+if$ -- 955
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 62
-newline$ -- 44
-num.names$ -- 30
-pop$ -- 138
+missing$ -- 70
+newline$ -- 49
+num.names$ -- 35
+pop$ -- 159
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 49
 quote$ -- 0
-skip$ -- 155
+skip$ -- 174
 stack$ -- 0
-substring$ -- 164
-swap$ -- 183
+substring$ -- 175
+swap$ -- 199
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 64
+type$ -- 72
 warning$ -- 0
-while$ -- 29
+while$ -- 32
 width$ -- 0
-write$ -- 96
+write$ -- 108

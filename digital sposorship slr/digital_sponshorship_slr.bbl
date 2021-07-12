@@ -1,4 +1,4 @@
-\begin{thebibliography}{6}
+\begin{thebibliography}{7}
 \newcommand{\enquote}[1]{`#1'}
 \providecommand{\natexlab}[1]{#1}
 {\catcode`\|=0\catcode`\#=12\catcode`\@=11\catcode`\\=12
@@ -8,6 +8,11 @@
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
+
+\harvarditem{Aaker \harvardand{} Joachimsthaler}{2012}{aaker2012brand}
+Aaker, D.A. \harvardand{} Joachimsthaler, E.
+\newblock \emph{Brand leadership}.
+\newblock Simon and Schuster \harvardyearleft 2012\harvardyearright{}.
 
 \harvarditem[Elasri-Ejjaberi et~al.]{Elasri-Ejjaberi, Rodriguez-Rodriguez,
   Sergio, Aparicio-Chueca \harvardand{} Pilar}{2020}{Elasri-Ejjaberi2020}
