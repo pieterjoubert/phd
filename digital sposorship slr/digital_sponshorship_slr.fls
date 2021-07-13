@@ -18,11 +18,29 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux
 INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux
 OUTPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux
+INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -41,6 +59,9 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
 OUTPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/../images/BrandIdentityModel.png
+INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/../images/BrandIdentityModel.png
+INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/../images/BrandIdentityModel.png
 INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.bbl
 INPUT c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.bbl
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/ecti0900.tfm
