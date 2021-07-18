@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex digital_sponshorship_slr"] 1626433222 "digital_sponshorship_slr.aux" "digital_sponshorship_slr.bbl" "digital_sponshorship_slr" 1626433225
+["bibtex digital_sponshorship_slr"] 1626594488 "digital_sponshorship_slr.aux" "digital_sponshorship_slr.bbl" "digital_sponshorship_slr" 1626594489
   "../PHD_literature.bib" 1626433204 5959 4d6b793e103587d7bec3c4497858571d ""
-  "../esports_slr.bib" 1626433200 3130 cb56b13ecdd4672edf52615b39f09cab ""
+  "../esports_slr.bib" 1626594484 3324 95ad51da5bb6e01cb2c3d5ccdeecd61b ""
   "./myharvard.bst" 1370337474 31282 d3655d553a6491c7b5d390e183a839ce ""
   "digital_sponshorship_slr.aux" 1626433224 2070 f9a3784f8f8bfeb1dac2b6bd0f54c462 "pdflatex"
   (generated)
   "digital_sponshorship_slr.blg"
   "digital_sponshorship_slr.bbl"
-["pdflatex"] 1626433223 "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" "digital_sponshorship_slr" 1626433225
+["pdflatex"] 1626433223 "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" "digital_sponshorship_slr" 1626594489
   "../images/BrandIdentityModel.png" 1626108994 46082 8c9e49eb61dd55fc70b8a20951e2d1af ""
   "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux" 1626433224 2070 f9a3784f8f8bfeb1dac2b6bd0f54c462 ""
   "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.tex" 1626433215 4616 01d86a282a18495cee4ae264544ce722 ""
@@ -65,11 +65,11 @@
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1596662929 2440978 0a62963e6bc79ed7bb1f06a24d5cfbee ""
   "c:/texlive/2020/texmf.cnf" 1596662759 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "digital_sponshorship_slr.aux" 1626433224 2070 f9a3784f8f8bfeb1dac2b6bd0f54c462 "pdflatex"
-  "digital_sponshorship_slr.bbl" 1626433223 3070 96408c8f0037169b3018bfdff008647b "bibtex digital_sponshorship_slr"
+  "digital_sponshorship_slr.bbl" 1626594489 3070 96408c8f0037169b3018bfdff008647b "bibtex digital_sponshorship_slr"
   "digital_sponshorship_slr.tex" 1626433215 4616 01d86a282a18495cee4ae264544ce722 ""
   (generated)
-  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.log"
-  "digital_sponshorship_slr.aux"
-  "digital_sponshorship_slr.pdf"
-  "digital_sponshorship_slr.log"
   "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf"
+  "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.log"
+  "digital_sponshorship_slr.log"
+  "digital_sponshorship_slr.pdf"
+  "digital_sponshorship_slr.aux"
