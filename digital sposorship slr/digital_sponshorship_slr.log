@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.5)  16 JUL 2021 13:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.8.5)  19 JUL 2021 19:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,32 +102,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: ../images/BrandIdentityModel.png Graphic file (type png)
 <use ../images/BrandIdentityModel.png>
 Package pdftex.def Info: ../images/BrandIdentityModel.png  used on input line 57.
-(pdftex.def)             Requested size: 413.99895pt x 177.4863pt.
-
-Overfull \hbox (68.99895pt too wide) in paragraph at lines 57--58
- [][] 
- []
-
-[2 <c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/../images/BrandIdentityModel.png>] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.bbl
+(pdftex.def)             Requested size: 345.0pt x 147.90215pt.
+ [2 <c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/../images/BrandIdentityModel.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 26.
+(Font)              <9> on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
-) [3] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux) )
+(Font)              <5> on input line 90.
+<../images/BrandIdentityModelUpdated.png, id=18, 686.565pt x 244.0317pt>
+File: ../images/BrandIdentityModelUpdated.png Graphic file (type png)
+<use ../images/BrandIdentityModelUpdated.png>
+Package pdftex.def Info: ../images/BrandIdentityModelUpdated.png  used on input line 126.
+(pdftex.def)             Requested size: 345.0pt x 122.62622pt.
+ [3] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.bbl [4 <c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/../images/BrandIdentityModelUpdated.png>]) [5] (c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.aux) )
 (\end occurred when \ifx on line 10 was incomplete) 
 Here is how much of TeX's memory you used:
- 1664 strings out of 480906
- 23207 string characters out of 5912174
- 260928 words of memory out of 5000000
- 17267 multiletter control sequences out of 15000+600000
- 545878 words of font info for 51 fonts, out of 8000000 for 9000
+ 1672 strings out of 480906
+ 23462 string characters out of 5912174
+ 262928 words of memory out of 5000000
+ 17273 multiletter control sequences out of 15000+600000
+ 546654 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,6n,33p,662b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbi0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
-Output written on "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" (3 pages, 197778 bytes).
+ 36i,6n,33p,662b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbi0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb>
+Output written on "c:/Users/pjoubert/gd/phd_branding/repo/digital sposorship slr/digital_sponshorship_slr.pdf" (5 pages, 254868 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
